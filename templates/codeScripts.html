@@ -1,0 +1,123 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block contentblock %}
+    <style>
+
+               @import "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700";#}
+
+        body {
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: 18px
+        }
+
+        .backto {
+            background: #039;
+            padding: 12px 0;
+            color: #fff
+        }
+
+        .backto a {
+            color: #FFF;
+            text-decoration: none
+        }
+
+        .cards-row {
+            padding-top: 40px;
+            padding-bottom: 20px;
+            background: #eee
+        }
+
+        .thumbnail {
+            padding: 0;
+            border-radius: 0;
+            border: none;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12)
+        }
+
+        .thumbnail > img {
+            width: 100%;
+            display: block
+        }
+
+        .thumbnail h3 {
+            font-size: 26px
+        }
+
+        .thumbnail h3, .card-description {
+            margin: 0;
+            padding: 8px 0;
+            border-bottom: solid 1px #eee;
+            text-align: justify
+        }
+
+        .thumbnail p {
+            padding-top: 8px;
+            font-size: 20px
+        }
+
+        .thumbnail .btn {
+            border-radius: 0;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+            font-size: 20px
+        }
+    </style>
+    <div class="backto">
+    <div class="container">CO-IDE:code scripts
+    </div>
+
+    <div class="container-fluid cards-row">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="{% static 'images/abstract-1231889_640.jpg' %}"
+                             alt="Bootstrap Thumbnail: Beautiful Bootstrap Thumbnail like Material Design Cards">
+                        <div class="caption">
+                            <p class="card-description" style="color: blue"><b>Code Scripts</b></p>
+                            {% for codeScript in list %}
+                                <h4><b>Title:</b>{{ codeScript.title }}</h4>
+                            {% endfor %}
+
+                            <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="{% static 'images/cssartcile.png' %}">
+                        <div class="caption">
+                            <p class="card-description" style="color:blue;"><b>Creator Details</b></p>
+                            {% for codeScript in list %}
+                                <h4><b>Creator:</b>{{ codeScript.creator }}</h4>
+                            {% endfor %}
+
+                            <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="https://1.bp.blogspot.com/-aFQ-W_KTFWQ/V6BdtpSUy6I/AAAAAAAAAH4/xD_U-BYItSsNvk1UGfROqLBzzU1h32oXQCLcB/s320/4-diwali-greeting-cards-by-ajay-acharya.jpg"
+                             alt="Bootstrap Thumbnail Customization">
+                        <div class="caption">
+                                                    <p class="card-description" style="color: blue"><b>Timezone</b>.</p>
+
+                            {% for codeScript in list %}
+                                <h4><b>Date&Time:</b>{{ codeScript.created_at }}</h4>
+                            {% endfor %}
+                            <p><a href="#" class="btn btn-primary" role="button">Button</a></p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+{% endblock %}

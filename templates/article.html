@@ -1,0 +1,216 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+
+{% block contentblock %}
+
+
+    <section class="row page-header">
+        <div class="container">
+            <marquee><h3><b>"Articles on HTML,CSS,JAVASCRIPT have the detailing of codescripts"</b></h3></marquee>
+        </div>
+    </section>
+
+    <section class="row blog-content page-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+
+                    <article class="post post-type-gallery-row">
+                        <div class="row featured-contents">
+                            <div class="post-gallery">
+                                <div class="item"><img src="{% static "images/glasses-272399_1920.jpg" %}" alt=""></div>
+                                <div class="item"><img src="{% static "images/htmlarticle.png" %}" alt=""></div>
+                                <div class="item"><img src="{% static "images/cssartcile.png" %}" alt=""></div>
+                                <div class="item"><img src="{% static "images/javascript.jpg" %}" alt=""></div>
+                                <div class="item"><img src="{% static "images/bookarticle.jpg" %}" alt=""></div>
+                            </div>
+                        </div>
+
+                    </article>
+                    {% for article in list %}
+                        <article class="post post-type-gallery row">
+                            <div class="row article-body">
+
+                                <img src="{{ article.banner.url }}" class="img-responsive" alt="">
+                                <h3 class="post-title"><a href="article.html">{{ article.title }}</a></h3>
+                                <ul class="post-meta nav">
+                                    <li class="post-date"><i class="fa fa-calendar-o"></i> <a
+                                            href="#">{{ article.created_at }}</a>
+                                    </li>
+                                    <li class="post-comments"><i class="fa fa-comments"></i> <a href="#">0 comment</a>
+                                    </li>
+                                    <li class="posted-by"><i class="fa fa-user"></i>posted by: <a
+                                            href="#">{{ article.author }}</a></li>
+                                    <li class="category"><i class="fa fa-folder"></i>category: <a
+                                            href="#">{{ article.category }}</a></li>
+                                </ul>
+                                <div class="post-excerpt row">
+                                    <p class="content">{{ article.content|slice:":200"}}</p>
+
+                                    <button id="show" href="#" class="btn-primary btn-outline dark">Read more</button>
+                                </div>
+
+                            </div>
+                        </article>
+                    {% endfor %}
+
+                    <ul class="pagination">
+                        <li class="active"><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+                    </ul>
+
+                </div>
+                <div class="col-md-4 sidebar post-sidebar">
+                    <div class="row m0 widget widget-search">
+                        <h4 class="widget-title">search</h4>
+                        <form action="#" class="row m0 search-form" method="get" role="search">
+                            <div class="input-group">
+                                <input type="search" class="form-control" placeholder="Search here">
+                                <span class="input-group-addon"><button type="submit"><i
+                                        class="fa fa-search"></i></button></span>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div class="row m0 widget widget-category">
+                        <h4 class="widget-title">categories</h4>
+                        <ul class="nav">
+                            <li><a href="category.html">HTML</a></li>
+                            <li><a href="category.html">CSS</a></li>
+                            <li><a href="category.html">JAVASCRIPT</a></li>
+                            <li><a href="category.html">OTHERS</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="row m0 widget widget-recent-posts">
+                        <h4 class="widget-title">Recent Added Articles</h4>
+                        <div class="media recent-post">
+                            <div class="media-left"><a href="single.html"><img
+                                    src="http://themedesigner.in.dimgx.net/demo/Helping-Hands/images/post2/recent1.jpg"
+                                    alt=""></a></div>
+                            <div class="media-body">
+                                <h5 class="title"><a href="#">EVENT FOR PROVIDING PENS TO THE CHILDRENS monthly base</a>
+                                </h5>
+                                <h5 class="date"><i class="fa fa-calendar-o"></i><a href="#">June 29, 2015</a></h5>
+                            </div>
+                        </div>
+                        <div class="media recent-post">
+                            <div class="media-left"><a href="single.html"><img
+                                    src="http://themedesigner.in.dimgx.net/demo/Helping-Hands/images/post2/recent2.jpg"
+                                    alt=""></a></div>
+                            <div class="media-body">
+                                <h5 class="title"><a href="#">MEDICAL CHECKUP CAMP FOR CHILDRENS IN AFRICA</a></h5>
+                                <h5 class="date"><i class="fa fa-calendar-o"></i><a href="#">June 28, 2015</a></h5>
+                            </div>
+                        </div>
+                        <div class="media recent-post">
+                            <div class="media-left"><a href="single.html"><img
+                                    src="http://themedesigner.in.dimgx.net/demo/Helping-Hands/images/post2/recent3.jpg"
+                                    alt=""></a></div>
+                            <div class="media-body">
+                                <h5 class="title"><a href="#">EVENT FOR GATHERING BOOKS FOR CHILDRENS</a></h5>
+                                <h5 class="date"><i class="fa fa-calendar-o"></i><a href="#">June 27, 2015</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row newsletter_signup style3">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5">
+                    <h4>FEEDBACK AND REPORTS</h4>
+                    <p>Give Your views</p>
+                </div>
+                <form class="col-sm-7 form-inline newsletter_signup_form">
+                    <input type="text" class="form-control" placeholder="Name">
+                    <input type="email" class="form-control" placeholder="Email Address">
+                    <input type="submit" value="submit" class="btn-primary white">
+                </form>
+            </div>
+        </div>
+    </section>
+    <!--Donate Form-->
+    <form action="#" method="get" class="row m0 donate_form mfp-hide" id="donate_box">
+        <h3>ENTER YOUR DONATION AMOUNT</h3>
+
+        <input type="radio" name="donate-amount" id="donate-amount01" value="10">
+        <label for="donate-amount01">
+            <strong>DONATE <span>$10</span></strong><br>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa ips tum sed, suscipit sit amet
+            arcu. Ut ut finibus tortor
+        </label>
+
+        <input type="radio" name="donate-amount" id="donate-amount02" value="25">
+        <label for="donate-amount02">
+            <strong>DONATE <span>$10</span></strong><br>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa ips tum sed, suscipit sit amet
+            arcu. Ut ut finibus tortor
+        </label>
+
+        <input type="radio" name="donate-amount" id="donate-amount03" value="100">
+        <label for="donate-amount03">
+            <strong>DONATE <span>$10</span></strong><br>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa ips tum sed, suscipit sit amet
+            arcu. Ut ut finibus tortor
+        </label>
+
+        <input type="radio" name="donate-amount" id="donate-amount04" value="500">
+        <label for="donate-amount04">
+            <strong>DONATE <span>$10</span></strong><br>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa ips tum sed, suscipit sit amet
+            arcu. Ut ut finibus tortor
+        </label>
+
+        <h5>ENTER CUSTOM AMOUNT</h5>
+
+        <div class="input-group">
+            <span class="input-group-addon left">$</span>
+            <input type="number" class="form-control" name="donate-amount">
+            <span class="input-group-addon right">
+                <button type="submit" class="btn-primary">donate now</button>
+            </span>
+        </div>
+    </form>
+
+    <script src="{% static 'js/jquery-2.1.4.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <!--Bootstrap Select-->
+    <script src="{% static 'vendors/bootstrap-select/js/bootstrap-select.min.js' %}"></script>
+    <!--Magnific Popup-->
+    <script src="{% static 'vendors/magnific-popup/jquery.magnific-popup.min.js' %}"></script>
+    <!--Owl Carousel-->
+    <script src="{% static 'vendors/owl.carousel/owl.carousel.min.js' %}"></script>
+    <!--CounterUp-->
+    <script src="{% static 'vendors/couterup/jquery.counterup.min.js' %}"></script>
+    <!--WayPoints-->
+    <script src="{% static 'vendors/waypoint/waypoints.min.js' %}"></script>
+    <!--Isotope & ImagesLoaded-->
+    <script src="{% static 'vendors/imagesloaded/imagesloaded.pkgd.min.js' %}"></script>
+    <script src="{% static 'vendors/isotope/isotope.min.js' %}"></script>
+    <!--Theme Script-->
+    <script src="{% static 'js/theme.js' %}"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#show").click(function () {
+                $("p.content").toggle();
+
+            });
+        });
+    </script>
+
+
+    </body>
+    </html>
+
+
+{% endblock %}

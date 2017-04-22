@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="480a5b88-a5a8-4d73-a79f-47672ef3b6e1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZZ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/article/17/04/19/blur-1853305_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/article/17/04/20/blur-1853305_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/article/17/04/20/news-760984_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/17/04/21/pic5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/abstract-1231889_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/monitor-1307227_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/usa-1249880_1920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/Capture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/abstract-1231889_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/ajay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/ajeet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/amex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/background-.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/background-616360_1920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/beVolunteer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/beVolunteer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/blur-1853305_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/bookarticle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/books.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/books1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/cause01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/cause02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/cause03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/checkout-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/close-up-2178341_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/code-1689066_1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/code.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/coide logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/coide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/coll.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/coll2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/coll3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/cssartcile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/dev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/donors/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/events/single.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/facebook-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/featured-slider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/featured-slider2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/7 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/list-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/list-image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/project (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/gallery/project.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/glasses-272399_1920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/help06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/homepagebg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/htmlarticle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/javascript.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/macbook-1999639_1920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/macbook-577758_1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/monitor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/page-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pic7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/author.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/comment1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/comment2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/comment3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/comment4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/recent1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/recent2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/post2/recent3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/posts/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/posts/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/posts/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/posts/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/posts/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pp1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pp2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pro01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pro02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pro03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/pro04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/product.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/recent_cause.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/recent_cause2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/recent_cause3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/recent_cause4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/slide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/sponsors.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/sponsors2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/team/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/technology-1283624_640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/testimonial1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/testimonial2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/the-backgroundcodenow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/upcoming01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/upcoming02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/upcoming03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/upcoming04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/upcoming05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/usa-1249880_1920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/volunteer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/world-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/images/world-map2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Djangoooo4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/polls.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Djangoooo4/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Djangoooo4/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Djangoooo4/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Djangoooo4/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Djangoooo4/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accounts/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/article/17/04/07/database.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/code.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/code.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/codescript/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0002_auto_20170317_1555.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0003_auto_20170317_1614.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0004_document.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0005_auto_20170407_1716.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0006_auto_20170407_1718.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0007_auto_20170407_1730.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0008_auto_20170407_1737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0009_auto_20170421_1713.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0010_auto_20170421_2234.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/0011_listcodescript_stars.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_404.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_about.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_beVolunteer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_cause.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_checkout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_contact.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_donate_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_donation_donors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_events_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_faqs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_featured_causes_row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_featured_events.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_featured_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_featured_projects.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_gallery.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_good_cause.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_help-process.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_home-pages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_latest_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_navbar_variation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_newsletter_signup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_our_causes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_prefix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_product.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_project-details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_quotes_row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_recent_products.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_shortcode.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_sponsor_banner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_upcoming_event.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_upcoming_recent_events.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/_volunteer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/hhh-theme/theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/gmaps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery-2.1.4.min (1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery-2.1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery-3.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/js/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_404.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_about.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_beVolunteer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_cause.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_checkout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_contact.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_donate_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_donation_donors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_events_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_faqs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_featured_causes_row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_featured_events.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_featured_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_featured_projects.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_gallery.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_good_cause.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_help-process.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_home-pages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_latest_news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_navbar_variation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_newsletter_signup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_our_causes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_prefix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_product.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_project-details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_quotes_row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_recent_products.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_shortcode.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_sponsor_banner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_upcoming_event.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_upcoming_recent_events.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/_volunteer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-beautify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-chromevox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-elastic_tabstops_lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-emmet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-error_marker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-keybinding_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-language_tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-linking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-modelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-old_ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-searchbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-settings_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-spellcheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-static_highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-themelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/ext-whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/keybinding-emacs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/keybinding-vim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-abap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-abc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-actionscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ada.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-apache_conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-applescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-asciidoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-assembly_x86.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-autohotkey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-batchfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-bro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-c9search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-c_cpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-cirru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-clojure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-cobol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-coldfusion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-csharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-curly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-django.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-dockerfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-dot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-drools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-eiffel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ejs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-elixir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-elm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-forth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-fortran.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ftl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-gcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-gherkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-gitignore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-glsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-gobstones.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-golang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-groovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-haml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-haskell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-haskell_cabal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-haxe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-hjson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-html_elixir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-html_ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-jack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-java.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-jsoniq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-jsp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-jsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-julia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-kotlin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-latex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-lean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-liquid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-lisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-live_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-livescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-logiql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-lsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-luapage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-lucene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-makefile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-matlab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-maze.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mips_assembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mipsassembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mushcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-mysql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-nix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-nsis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-objectivec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ocaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-perl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-pgsql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-plain_text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-powershell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-praat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-prolog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-python.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-razor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-rdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-rhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-rst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-rust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-scad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-scala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-scheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-scss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-sh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-sjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-smarty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-snippets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-soy_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-space.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-sqlserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-stylus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-swift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-swig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-tex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-textile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-toml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-tsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-twig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-typescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-vala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-vbscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-verilog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-vhdl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-wollok.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-xquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/mode-yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/abap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/abc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/actionscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ada.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/apache_conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/applescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/asciidoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/assembly_x86.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/autohotkey.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/batchfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/bro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/c9search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/c_cpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/cirru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/clojure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/cobol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/coldfusion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/csharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/curly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/dart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/django.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/dockerfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/dot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/drools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/eiffel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ejs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/elixir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/elm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/forth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/fortran.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ftl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/gcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/gherkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/gitignore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/glsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/gobstones.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/golang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/groovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/haml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/haskell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/haskell_cabal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/haxe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/hjson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/html_elixir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/html_ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/jack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/java.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/jsoniq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/jsp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/jsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/julia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/kotlin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/latex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/lean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/liquid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/lisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/live_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/livescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/logiql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/lsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/luapage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/lucene.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/makefile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/matlab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/maze.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mips_assembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mipsassembler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mushcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/mysql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/nix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/nsis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/objectivec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ocaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/perl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/pgsql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/plain_text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/powershell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/praat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/prolog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/protobuf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/python.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/razor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/rdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/rhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/rst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/rust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/scad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/scala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/scheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/scss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/sh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/sjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/smarty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/snippets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/soy_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/space.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/sqlserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/stylus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/swift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/swig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/tex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/textile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/toml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/tsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/twig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/typescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/vala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/vbscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/velocity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/verilog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/vhdl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/wollok.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/xquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/snippets/yaml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-ambiance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-chaos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-chrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-clouds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-clouds_midnight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-cobalt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-crimson_editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-dawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-dreamweaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-eclipse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-github.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-idle_fingers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-iplastic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-katzenmilch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-kr_theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-kuroir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-merbivore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-merbivore_soft.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-mono_industrial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-monokai.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-pastel_on_dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-solarized_dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-solarized_light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-sqlserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-terminal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-textmate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-tomorrow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-tomorrow_night.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-tomorrow_night_blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-tomorrow_night_bright.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-tomorrow_night_eighties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-twilight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-vibrant_ink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/theme-xcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/ace/src/worker-xquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/css/bootstrap-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/css/bootstrap-select.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/css/bootstrap-select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/bootstrap-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/bootstrap-select.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/bootstrap-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ar_AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ar_AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-bg_BG.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-bg_BG.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-cro_CRO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-cro_CRO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-cs_CZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-cs_CZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-da_DK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-da_DK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-de_DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-de_DE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-en_US.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-en_US.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-es_CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-es_CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fa_IR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fa_IR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fi_FI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fi_FI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fr_FR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-fr_FR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-hu_HU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-hu_HU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-id_ID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-id_ID.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-it_IT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-it_IT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ko_KR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ko_KR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-nb_NO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-nb_NO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-nl_NL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-nl_NL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pl_PL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pl_PL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pt_BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pt_PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-pt_PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ro_RO.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ro_RO.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ru_RU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ru_RU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sk_SK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sk_SK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sl_SI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sl_SI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sv_SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-sv_SE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-tr_TR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-tr_TR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ua_UA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-ua_UA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-zh_CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/bootstrap-select/js/i18n/defaults-zh_TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/countdown/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/couterup/jquery.counterup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/flip-clock/flipclock.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/flip-clock/flipclock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/flip-clock/flipclock.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/imagesloaded/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/isotope/isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/jquery-ui/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/magnific-popup/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/magnific-popup/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/magnific-popup/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/owl.carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/owl.carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/static/vendors/waypoint/waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poll/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CodeNow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/codeScripts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/comment_thread.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/confirm_delete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/messages_display.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/search.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poll/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2193">
+              <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+              <folding>
+                <element signature="e#6330#6350#0#HTML" expanded="true" />
+                <element signature="e#6494#6514#0#HTML" expanded="true" />
+                <element signature="e#7016#7035#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poll/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="37" column="80" lean-forward="false" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Djangoooo4/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Djangoooo4/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#644#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poll/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poll/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="44" column="42" lean-forward="false" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tem</find>
+      <find>LOGIN</find>
+      <find>deb</find>
+      <find>affix</find>
+      <find>nav</find>
+      <find>blog_search_list_view</find>
+      <find>Articles</find>
+      <find>a'</find>
+      <find>django.contrib.site</find>
+      <find>Lo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Djangoooo4/index.html" />
+        <option value="$PROJECT_DIR$/poll/static/index2urls.py" />
+        <option value="$PROJECT_DIR$/templates/list.html" />
+        <option value="$PROJECT_DIR$/poll/static/js/theme.js" />
+        <option value="$PROJECT_DIR$/templates/index2.html" />
+        <option value="$PROJECT_DIR$/poll/static/scss/_about.scss" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/messages_display.html" />
+        <option value="$PROJECT_DIR$/comments/admin.py" />
+        <option value="$PROJECT_DIR$/templates/confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/comment_thread.html" />
+        <option value="$PROJECT_DIR$/comments/urls.py" />
+        <option value="$PROJECT_DIR$/comments/models.py" />
+        <option value="$PROJECT_DIR$/comments/forms.py" />
+        <option value="$PROJECT_DIR$/comments/views.py" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/CodeNow.html" />
+        <option value="$PROJECT_DIR$/poll/forms.py" />
+        <option value="$PROJECT_DIR$/accounts/forms.py" />
+        <option value="$PROJECT_DIR$/templates/article.html" />
+        <option value="$PROJECT_DIR$/templates/category.html" />
+        <option value="$PROJECT_DIR$/poll/admin.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/poll/urls.py" />
+        <option value="$PROJECT_DIR$/poll/models.py" />
+        <option value="$PROJECT_DIR$/templates/codeScripts.html" />
+        <option value="$PROJECT_DIR$/Djangoooo4/urls.py" />
+        <option value="$PROJECT_DIR$/poll/views.py" />
+        <option value="$PROJECT_DIR$/Djangoooo4/settings.py" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/form.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Djangoooo4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/django-discussion-master" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="index&#9;FILE&#9;file://C:/Users/devansh/PycharmProjects/Djangoooo4/Djangoooo4/index.html&#10;inde&#9;RUN_CONFIGURATION&#9;index.html&#10;register&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\devansh\PycharmProjects\polls\poll\static\images" />
+      <recent name="C:\Users\devansh\PycharmProjects\Djangoooo4\poll\static\images" />
+      <recent name="C:\Users\devansh\PycharmProjects\Djangoooo4\templates" />
+      <recent name="C:\Users\devansh\PycharmProjects\Djangoooo4\poll\static\vendors\ace" />
+      <recent name="C:\Users\devansh\PycharmProjects\Djangoooo4\poll\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\devansh\PycharmProjects\Djangoooo4\poll\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Djangoooo4" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Djangoooo4" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Djangoooo4.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Djangoooo4" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/Djangoooo4/Djangoooo4/index.html">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Djangoooo4" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="480a5b88-a5a8-4d73-a79f-47672ef3b6e1" name="Default" comment="" />
+      <created>1489114739749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489114739749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1370" height="735" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39453718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4833887" sideWeight="0.5144158" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4833887" sideWeight="0.48558423" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33551556" sideWeight="0.49541986" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="holy crap" />
+    <MESSAGE value="wahhhh bhabhi ji ghr per hai" />
+    <option name="LAST_COMMIT_MESSAGE" value="wahhhh bhabhi ji ghr per hai" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poll/admin.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/accounts/forms.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poll/urls.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="438" column="0" lean-forward="false" selection-start-line="438" selection-start-column="0" selection-end-line="438" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/scss/_team.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/js/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3336">
+          <caret line="271" column="0" lean-forward="true" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/js/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/migrations/0005_auto_20170407_1716.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="169" column="0" lean-forward="false" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/aboutus.html" />
+    <entry file="file://$PROJECT_DIR$/comments/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/django/contrib/auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="129" column="4" lean-forward="true" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/1475613406/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2766" column="0" lean-forward="false" selection-start-line="2766" selection-start-column="0" selection-end-line="2766" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Djangoooo4/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/search.html" />
+    <entry file="file://$PROJECT_DIR$/templates/messages_display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/comment_thread.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/static/vendors/ace/src/ext-emmet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="0" column="8758" lean-forward="false" selection-start-line="0" selection-start-column="8757" selection-end-line="0" selection-end-column="8758" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Djangoooo4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/CodeNow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/codeScripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="44" column="42" lean-forward="false" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Djangoooo4/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Djangoooo4/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="26" lean-forward="false" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
+          <folding>
+            <element signature="e#6330#6350#0#HTML" expanded="true" />
+            <element signature="e#6494#6514#0#HTML" expanded="true" />
+            <element signature="e#7016#7035#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poll/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="37" column="80" lean-forward="false" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
